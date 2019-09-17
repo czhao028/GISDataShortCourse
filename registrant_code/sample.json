@@ -1,0 +1,63 @@
+{
+  "RiceAffiliation": {
+    "FriendsOfFondrenLibraryMembershipID2_IsRequired": false,
+    "FriendsOfFondrenLibraryMembershipID2": null,
+    "SchoolDepartmentOrProgram": "School of Engineering",
+    "SelectAffiliation": "Rice Undergrad",
+    "RiceNetID_IsRequired": true,
+    "RiceNetID": "cyz1"
+  },
+  "Form": {
+    "InternalName": "GDCShortCourseRegistration",
+    "Id": "1",
+    "Name": "GDC Short Course Registration"
+  },
+  "GDCShortCourseRegistrationGuidelines": {},
+  "$version": 7,
+  "Entry": {
+    "AdminLink": "https://www.cognitoforms.com/RiceUniversity2/1/entries/683",
+    "Status": "Submitted",
+    "Timestamp": "2019-08-24T21:14:27.669Z",
+    "Number": 683,
+    "DateCreated": "2019-08-24T21:14:27.669Z",
+    "EditLink": "https://www.cognitoforms.com/RiceUniversity2/GDCShortCourseRegistration#0W3xwdqHmWSiHgD9ElTYgqNwh3Dz79vXg6yPTBmXfRs$*",
+    "DateSubmitted": "2019-08-24T21:14:27.669Z",
+    "DateUpdated": "2019-08-24T21:14:27.669Z",
+    "ViewLink": "https://www.cognitoforms.com/RiceUniversity2/GDCShortCourseRegistration#g2nWThMsz1gh6mXReLIVoFsOSs6y7-skX5uHnMr1Jt0$*"
+  },
+  "ContactInfo": {
+    "Phone2": "(571) 789-3311",
+    "FullName": "Christine Zhao",
+    "Email2": "cyz1@rice.edu"
+  },
+  "Id": "1-683",
+  "GDCCourseSelection": {
+    "IntroductionToGISDataManagement": "Tues, Feb 19, 4:00 - 5:00 pm",
+    "WarningYouAreRegisteringForACourseWithAnIntroductionToGISPrerequisite_IsRequired": false,
+    "IntroductionToCoordinateSystemsAndProjections": "Fri, Mar 1, 4:00 - 5:00 pm",
+    "WarningYouAreRegisteringForACourseWithAnIntroductionToGISPrerequisite": null,
+    "SelectCoursesToRegister": [
+      "Tues, Mar 19, 2:00 - 3:00 pm - Measuring Geographic Distributions",
+      "Thurs, Mar 28, 2:00 - 3:00 pm - Analyzing Spatial Patterns"
+    ],
+    "GettingStartedWithArcGISBootCamp": null,
+    "SelectCoursesToRegister2": [
+      "Thurs, Mar 7, 5:00 - 6:00 pm - Introduction to Geoprocessing",
+      "Fri, Mar 22, 4:00 - 5:00 pm - Map Layouts for Publication",
+      "Tues, Mar 26, 4:00 - 5:00 pm - Data Interpolation and Extraction"
+    ],
+    "SelectCoursesToRegister3": [
+      "Mon, Mar 4, 4:00 - 5:00 pm - Mapping Tabular Data",
+      "Mon, Mar 18, 4:00 - 5:00 pm - Mapping Locations Using XY Coordinates",
+      "Mon, Mar 25, 4:00 - 5:00 pm - Mapping Imagery"
+    ],
+    "SelectCoursesToRegister4": [
+      "Tues, Feb 5, 3:00 - 4:00 pm - Introduction to Census Geographies",
+      "Thurs, Feb 14, 3:00 - 4:00 pm - Introduction to Demographic and Business Data Products and Sources",
+      "Tues, Feb 26, 3:00 - 4:00 pm - Social Explorer: Exploring Census Data",
+      "Tues, Mar 5, 3:00 - 4:00 pm - SimplyAnalytics: Exploring Demographic and Business Data",
+      "Thurs, Mar 21, 3:00 - 4:00 pm - Bringing Census Data into ArcGIS"
+    ],
+    "IntroductionToGIS": "Fri, Feb 15, 4:00 - 6:00 pm"
+  }
+}
